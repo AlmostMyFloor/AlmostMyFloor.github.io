@@ -1,2 +1,1 @@
-# AlmostMyFloor.github.io
-Potata Company Site
+The game does not collect any user data. The game uses an achievement system implemented through the Epic Store. Any information that may be collected is done on the Epic Store's side, so please refer to the link for clarification. https://www.epicgames.com/privacypolicy
